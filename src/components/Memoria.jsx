@@ -7,12 +7,12 @@ import {
 } from "react-native";
 
 const simbolosOriginais = [
-  "🍎",
-  "🐱",
+  "🪼",
+  "🍄",
   "🌸",
   "⭐",
-  "🍕",
-  "🐶",
+  "🐻‍❄️",
+  "🍓",
 ];
 
 function embaralhar() {
@@ -71,7 +71,7 @@ export default function Memoria({ voltar }) {
         <Text style={styles.voltarTexto}>‹</Text>
       </TouchableOpacity>
 
-      <Text style={styles.titulo}>🧠 Jogo da Memória</Text>
+      <Text style={styles.titulo}>🧠 Jogo da Memória 💭</Text>
 
       <Text style={styles.instrucao}>
         Encontre todos os pares!

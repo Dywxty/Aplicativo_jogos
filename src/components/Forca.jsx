@@ -68,7 +68,7 @@ export default function Forca({ voltar }) {
         <Text style={styles.voltarTexto}>‹</Text>
       </TouchableOpacity>
 
-      <Text style={styles.titulo}>🔤 Jogo da Forca</Text>
+      <Text style={styles.titulo}>🔤 Jogo da Forca 🪢</Text>
 
       <View style={styles.card}>
         <Text style={styles.tema}>
